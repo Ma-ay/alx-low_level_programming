@@ -1,7 +1,7 @@
 #ifndef MAIN_H_INCLUDED
 #define MAIN_H_INCLUDED
 
-int_putchar(char c);
+int _putchar(char c);
 
 char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);
